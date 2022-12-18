@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Idiomatis</string>
+    <string name="firstTaskName">Voice messages</string>
+    <string name="secondTaskName">Translate</string>
+    <string name="thirdTaskName">Choose translation</string>
+    <string name="greeting">Hello and Welcome!</string>
+    <string name="getToKnow">Let\'s get to know each other</string>
+    <string name="askAboutName">What is your name?</string>
+    <string name="next">Continue</string>
+    <string name="answer">Answer</string>
+    <string name="give_answer">Give answer</string>
+</resources>
